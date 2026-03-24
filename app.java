@@ -218,13 +218,8 @@ pipeline {
     }
   }
 
-  post {
-    failure {
-      // notify users when the Pipeline fails
-      mail to: 'team@example.com',
-          subject: "Failed Pipeline: ${currentBuild.fullDisplayName}",
-          body: "Something is wrong with ${env.BUILD_URL}"
-    }
-  }
+  This shows usage of a simple build wrapper, specifically the AnsiColor plugin, which adds ANSI coloring to the console output.
+
+
 }
 This directory contains examples of how to extend Workflow using the global library on your Jenkins master.
