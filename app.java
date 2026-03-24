@@ -217,15 +217,3 @@ pipeline {
       }
     }
   }
-
-  This shows usage of a simple build wrapper, specifically the AnsiColor plugin, which adds ANSI coloring to the console output.
-
-
-}
-This directory contains examples of how to extend Workflow using the global library on your Jenkins master.
-Dhurandhar is a two-part Hindi spy-thriller series (2025–2026)
- directed by Aditya Dhar, starring Ranveer Singh as Hamza Ali Mazari,
-  a RAW agent on a covert mission in Pakistan. It explores an undercover operation in Karachi
-  ’s Lyari, tackling terrorism, underworld politics, and incidents like the 2008 Mumbai attacks
-  , with a sequel titled Dhurandhar: 
-  The Revenge. 
