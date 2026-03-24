@@ -217,6 +217,7 @@ pipeline {
       }
     }
   }
+<<<<<<< HEAD
 
   post {
     failure {
@@ -249,3 +250,5 @@ pipeline {
     }
   }
 }
+=======
+>>>>>>> 07ecd7dc40b21d5e7fa5163dd20a21ef62ab30f3
